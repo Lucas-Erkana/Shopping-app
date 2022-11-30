@@ -97,7 +97,7 @@ After you're finished please remove all the comments and instructions!
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone https://github.com/Lucash2022/Awesome_Book.git
+- On the terminal run this command git clone https://github.com/Lucash2022/Sopping-app.git
 
 - Go to the repository folder using command prompt cd Awesome_Book.
 
