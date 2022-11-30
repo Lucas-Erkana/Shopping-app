@@ -84,7 +84,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Shopping App]( https://lucash2022.github.io/Awesome_Book/)
+[Shopping App]( https://lucash2022.github.io/Sopping-app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
