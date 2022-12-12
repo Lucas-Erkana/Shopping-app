@@ -7,7 +7,7 @@ This is an example of how you may give instructions on setting up your project l
 Modify this file to match your project and remove sections that don't apply.
 =======
 
-## Awesome books Project
+## Shopping List App
 
 This project is about a basic website that allows users to add/remove books from a list. We will achieve that by using JavaScript objects and arrays. 
 We will also dynamically modify the DOM and add basic events.
@@ -33,7 +33,6 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
 
-  <img src="/images/murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
