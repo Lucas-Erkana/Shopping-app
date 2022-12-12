@@ -83,7 +83,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Shopping App](https://lucash2022.github.io/Sopping-app/)
+[Shopping App]https://lucash2022.github.io/Shopping-app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,7 +123,7 @@ Clone this repository to your desired folder:
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone https://github.com/Lucash2022/Awesome_Book.git
+- On the terminal run this command git clone https://github.com/Lucash2022/Shopping-app.git
 
 - Go to the repository folder using command prompt cd LucasErkanaPortfolio_Website.
 
